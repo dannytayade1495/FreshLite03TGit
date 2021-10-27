@@ -1,0 +1,38 @@
+25/10/21
+-Research keywords: native, strictfp, transient, volatile, assert, enum
+-Default value of char datatype
+-Bitwise operators & Shift operators
+-Just-In-Time Compiler (JIT)
+
+(a=5, b=2, c=1)
+1) m=++a*5;
+2) n=b++-c*2;
+(x=10, y=2, p=2)
+3)p*=x/y;
+4)p+=x+y;
+5)p-=x+y;
+6)p%=x+y;
+
+-------------------------------------
+26/10/2021
+-Nested if-else program
+-Program 'for loop' in switch 
+-Research Compile-Time-Constants
+-Design patterns programs
+-Looping statements programs
+-Reverse and palindrome numbers
+--------------------------------------
+27/10/2021
+-Read Coding conventions
+-Explore git pull
+-Difference between pull & fetch
+-Difference between merge & rebase
+--------------------------------------
+28/10/2021
+--------------------------------------
+29/10/2021
+--------------------------------------
+30/10/2021
+--------------------------------------
+1/11/2021
+--------------------------------------
